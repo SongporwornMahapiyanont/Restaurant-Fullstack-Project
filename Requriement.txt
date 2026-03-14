@@ -1,0 +1,4 @@
+- เพิ่ม Local Stroage เช่น จำว่ากด Dark theme เอาไว้
+- Secure like cookie Session and token
+- Docker for containerization and deployment.
+- ระบบ Seachring 
